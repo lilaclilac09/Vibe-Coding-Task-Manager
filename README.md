@@ -9,3 +9,9 @@
   <a href="https://aistudio.google.com/apps">Start building</a>
 
 </div>
+
+This repository currently contains the AI Studio banner and acceptance-policy
+tooling only; no task-manager application or setup/run instructions are present.
+See the [acceptance audit](notes/acceptance-audit-2026-11-23.md).
+
+Status: BLOCKED — Next human action: provide the intended task-manager source or its app-specific deployment URL.
